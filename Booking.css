@@ -1,0 +1,40 @@
+/*CSS page of booking tickit*/
+
+body{
+	background-image: url(https://wallpapercave.com/wp/viRjdLn.png);
+}
+
+.logo{
+	color: whitesmoke;
+	font-size: 32px;
+	float: left;
+}
+
+li{
+	float: right;
+	
+}
+
+a{
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 16px;
+	padding: 14px;
+}
+
+a:hover{
+	color: whitesmoke;
+	background-color: red;
+	border-radius: 8px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.heading{
+	padding-top: 150px;
+	font-size: 32px;
+	color: ghostwhite;
+	padding-left:38%;
+}

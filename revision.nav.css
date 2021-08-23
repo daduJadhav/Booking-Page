@@ -1,0 +1,55 @@
+/*CSS FOR HOME PAGE*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+body{
+	/*background-image: url(https://wallpapercave.com/wp/viRjdLn.png);*/
+	background-color: #0f171e;
+}
+
+.logo{
+	color: whitesmoke;
+	font-size: 32px;
+	float: left;
+}
+
+li{
+	float: right;
+	
+}
+
+a{
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 16px;
+	padding: 14px;
+}
+
+a:hover{
+	color: whitesmoke;
+	background-color: red;
+	border-radius: 8px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.para{
+	color:  #f4c20d;
+	font-family: 'Dancing Script', cursive;
+	font-size: 24px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+
+
+
+
+.hindi-table-p{
+	padding-top: 200px;
+	font-size: 24px;
+	color: whitesmoke;
+}
